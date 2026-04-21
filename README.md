@@ -19,4 +19,4 @@ A simple web-based digital clock built using HTML, CSS, and JavaScript that disp
 
 **How it Works**
 
-JavaScript retrieves the current system time using the Date object, formats the values into two digits, and updates the clock display in the DOM. The update function runs immediately when the page loads and then repeats every second using setInterval(), ensuring the clock stays synchronized with system time.
+JavaScript retrieves the current system time using the `Date` object, formats the values into two digits, and updates the clock display in the DOM. The update function runs immediately when the page loads and then repeats every second using `setInterval()`, ensuring the clock stays synchronized with system time.
